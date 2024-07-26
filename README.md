@@ -1,5 +1,11 @@
 # MasterJi - Machine Coding Round
 
+## Task/Assignment Link
+
+1 [OTP Form](https://masterji-machine-coding-round-react.vercel.app/)
+2 [Drag and Drop Course Cards](https://masterji-machine-coding-round-react.vercel.app/batches)
+3 [Data Table Course Card](https://masterji-machine-coding-round-react.vercel.app/courseList)
+
 ## Features
 
 - Implements solutions for machine coding problems
